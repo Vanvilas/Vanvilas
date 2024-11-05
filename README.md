@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ###  ✨ Hello world!
 
-### Sou estudante de Engenharia de Software com foco em programação Full-Stack Java.
+### Sou estudante de Engenharia de Software com foco em programação Full-Stack.
 
 <br>
 
